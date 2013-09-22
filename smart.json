@@ -1,0 +1,10 @@
+{
+	"name": "instagram-wrapper",
+	"description": "Wrapper for the instagram npm package - https://npmjs.org/package/instagram",
+	"homepage": "https://github.com/bojan88/meteor-instagram-wrapper",
+	"author": "bojan88 - bojan88@gmail.com",
+	"version": "0.0.1",
+	"git": "https://github.com/bojan88/meteor-instagram-wrapper.git",
+	"packages": {}
+
+}

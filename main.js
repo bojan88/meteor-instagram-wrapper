@@ -1,0 +1,2 @@
+
+Instagram = Npm.require("instagram");
